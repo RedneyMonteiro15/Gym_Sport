@@ -63,9 +63,10 @@ footer p{
 }
 
 #planos{
-    width: 1000px;
     margin: auto;
-    margin-bottom: 50px;
+    margin: 100px 50px 50px 100px;
+    border-radius: 20px;
+    padding: 20px;
 }
 
 #planos h2,
@@ -130,13 +131,14 @@ footer p{
     size: 20px;
 }
 
-footer img{
-    width: 150px;
-    border-radius: 30%;
-}
 
 footer a{
     text-align: right;
     color: #fff;
+}
+
+footer img{
+    height: 25px;
+    margin: 5px;
 }
 
