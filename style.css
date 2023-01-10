@@ -142,3 +142,46 @@ footer img{
     margin: 5px;
 }
 
+#rodape
+{
+    padding: 50px;
+    background-color: #004AAD;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    font-size: 11pt;
+}
+#rodape ul{
+    list-style: none;
+}
+#rodape ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+#rodape h4
+{
+    font-style: bold;
+    padding: 10px;
+    font-size: 14pt;
+}
+#redes
+{
+    margin-left: -180px;
+    text-align: center;
+
+}
+
+#redes ul
+{
+    display: flex;
+}
+.icones ul li
+{
+    margin: 20px;
+    font-size: 20pt;
+}
+
+#contatos li
+{
+    padding-top: 5px;
+}
